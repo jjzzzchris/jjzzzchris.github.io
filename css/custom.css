@@ -9,6 +9,8 @@
 
 .jumbotron {
   background-color: darkslategray;
+  height: 80vh;
+  margin-bottom: 0;
 }
 
 #while {
@@ -43,6 +45,13 @@
   margin-left: 2rem;
 }
 
-/* .jumbotronhr {
-  color: aqua;
-} */
+#footer {
+  background-color: darkslategray;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+#footer-content {
+  padding: 2rem;
+}
