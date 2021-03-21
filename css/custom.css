@@ -1,0 +1,44 @@
+#chrisName {
+  color: aqua;
+  text-transform: capitalize;
+}
+
+.jumbotron {
+  background-color: darkslategray;
+}
+
+#while {
+  color: plum;
+}
+
+.bracket {
+  color: orange;
+}
+
+#true {
+  color: pink;
+}
+
+#iletter {
+  color: aqua;
+}
+
+#you {
+  color: #e35b5b;
+}
+
+#idot {
+  color: wheat;
+}
+
+#love {
+  color: #fce803;
+}
+
+#iloveyoublock {
+  margin-left: 2rem;
+}
+
+/* .jumbotronhr {
+  color: aqua;
+} */
