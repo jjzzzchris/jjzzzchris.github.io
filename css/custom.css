@@ -7,6 +7,10 @@
   margin-bottom: 0;
 }
 
+.toast {
+  margin-top: 1rem;
+}
+
 .navbar-brand {
   font-size: 1rem;
 }
